@@ -38,4 +38,19 @@ Both projects include:
 2. Navigate to the desired folder and run the script:
     cd LinearRegression_SingleFeature
     python LinearRegression_SingleFeature.py
-   
+
+---
+You’ll see:
+  - Scatter plots before and after normalization
+  - Loss curve across training iterations
+  - R² score for evaluation
+
+---
+📦 Dependencies
+    - numpy
+    - matplotlib
+  Install using:
+   ```bash
+    pip install numpy matplotlib
+
+
