@@ -3,7 +3,7 @@
 This repository contains two separate projects demonstrating **Linear Regression implemented from scratch in Python**:
 
 - 🟦 [Single Feature Linear Regression](./LinearRegression_SingleFeature)
-- 🟨 [Multiple Feature Linear Regression](./linearRegression_MultipleFeature)
+- 🟨 [Multiple Feature Linear Regression](https://github.com/Akshya-1108/LinearRegression/tree/main/linearRegressin_multipleFeature)
 
 Both projects include:
 - Custom gradient descent implementation
